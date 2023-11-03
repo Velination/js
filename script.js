@@ -290,10 +290,6 @@ console.log(`string with
 //  console.log (`The bill was ${bill}, the tip was ${tip}, and the total value ${bill + tip} `);
 
 
-//  fundamentals of js 2 
-//  activating strict mode
-
-'use strict';
 
 
 
